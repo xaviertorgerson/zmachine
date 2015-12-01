@@ -1,5 +1,3 @@
-Emulator of the Oxford Z Machine
-
 The Z Machine was described here http://blog.jgc.org/2013/05/the-two-problems-i-had-to-solve-in-my.html in a blog post by John Graham-Cumming.  It was a theoretical machine that was used in interviewing brainteasers at Oxford University, UNTIL NOW!
 
 The Z Machine has a simple memory layout representing an infinite array where the first element corrosponds to index 0.  The memory can be opperated on by simple commands.
